@@ -6,7 +6,7 @@
 
 To clone the project<br>
 ``
-    Git Clone https://github.com/ShowmickKar/Pathfinding-Visualizer.git
+    Git Clone https://github.com/ShowmickKar/React-Todo-App.git
 ``
 
 Install dependencies<br>
