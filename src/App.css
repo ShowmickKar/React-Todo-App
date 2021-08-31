@@ -1,0 +1,63 @@
+.App {
+  background-color: rgb(189, 66, 66);
+  border-radius: 12px;
+  padding: 30px;
+}
+
+.Header {
+  font-size: 18px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+input {
+  border: 2px solid rgb(105, 12, 12);
+  border-radius: 4px;
+}
+
+ul {
+  background: #daae38;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+ul li {
+  list-style-type: none;
+  background: #cce5ff;
+  margin: 5px;
+  padding: 5px;
+}
+
+.todo {
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
+  color: darkblue;
+}
+
+button {
+  transition-duration: 0.4s;
+  border-radius: 12px;
+}
+
+button:hover {
+  color: white;
+  background-color: #3399ff;
+  border-radius: 2px;
+}
+
+.complete-btn {
+  background-color: greenyellow;
+}
+
+.complete-btn:hover {
+  background-color: green;
+}
+
+.delete-btn {
+  background-color: red;
+}
+
+.delete-btn:hover {
+  background-color: rgb(121, 4, 4);
+}
