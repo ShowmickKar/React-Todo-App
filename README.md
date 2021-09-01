@@ -6,7 +6,7 @@
 
 To clone the project<br>
 ``
-    Git Clone https://github.com/ShowmickKar/React-Todo-App.git
+    git clone https://github.com/ShowmickKar/React-Todo-App.git
 ``
 
 Install dependencies<br>
