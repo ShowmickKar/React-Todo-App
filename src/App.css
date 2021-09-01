@@ -8,14 +8,16 @@
 }
 
 .Header {
-  font-size: 18px;
+  font-size: 20px;
   font-family: sans-serif;
   font-style: italic;
 }
 
 input {
+  font-size: 18px;
   border: 2px solid rgb(105, 12, 12);
   border-radius: 4px;
+  width: 80%;
 }
 
 ul {
@@ -25,6 +27,7 @@ ul {
 }
 
 ul li {
+  font-size: 20px;
   list-style-type: none;
   background: #cce5ff;
   margin: 5px;
@@ -41,11 +44,13 @@ ul li {
 button {
   transition-duration: 0.4s;
   border-radius: 12px;
+  font-size: 18px;
+  background-color: rgb(238, 241, 4);
 }
 
 button:hover {
   color: white;
-  background-color: #3399ff;
+  background-color: rgb(105, 49, 2);
   border-radius: 2px;
 }
 
