@@ -4,7 +4,11 @@
 
 <br />
 
-View the app [here](https://showmickkar.github.io/React-Todo-App/)
+## Deployment
+
+*View the app [here](https://showmickkar.github.io/React-Todo-App/)*
+
+## Run the project on your computer
 
 To clone the project<br>
 ``
