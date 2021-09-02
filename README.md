@@ -4,6 +4,8 @@
 
 <br />
 
+View the app [here](https://showmickkar.github.io/React-Todo-App/)
+
 To clone the project<br>
 ``
     git clone https://github.com/ShowmickKar/React-Todo-App.git
