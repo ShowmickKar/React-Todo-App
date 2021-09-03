@@ -2,13 +2,10 @@
 
 ## In an attempt to learn one of the most popular web frameworks - React, I've built a simple to-do list application that uses some of the core react features - reusable components, props, usestates, use effects, and storing data to local storage.
 
-<br />
 
 ## Deployment
 
-<br/>
 View the app <a href="https://showmickkar.github.io/React-Todo-App/" target="_blank">here</a>
-<br/><br/>
 
 ## Run the project on your computer
 
