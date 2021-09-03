@@ -6,24 +6,20 @@
 
 ## Deployment
 
-*View the app [here](https://showmickkar.github.io/React-Todo-App/)*
+<br/>
+View the app <a href="https://showmickkar.github.io/React-Todo-App/" target="_blank">here</a>
+<br/><br/>
 
 ## Run the project on your computer
 
 To clone the project<br>
-``
-    git clone https://github.com/ShowmickKar/React-Todo-App.git
-``
+` git clone https://github.com/ShowmickKar/React-Todo-App.git`
 
 Install dependencies<br>
-``
-npm install i
-``
+`npm install i`
 
 Run the project<br>
-``
-npm start
-``
+`npm start`
 
 Screenshots:<br>
 <img src="src/Assets/Images/ss1.png" alt="drawing" width="350"/>
